@@ -11,6 +11,6 @@ And in the end we are going to predict the payment date and catagorize them into
 We are using Random Forest for training and tuning our machine learning model.
 
 
-## Attributes used in the dataset
+## Attributes used in the dataset.
 
 Business Code, Customer Number, Customer Name, Clear Date, Business Year, Doc Id, Posting Date, Due In Date, Document Create Date, Invoice Currency, Document Type, Posting ID, Area Business, Baseline Create Date, Total Open Amount, Customer Payment Terms, Invoice ID.
